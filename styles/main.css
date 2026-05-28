@@ -71,7 +71,7 @@ h3 {
 #hero>.dot>i {
     font-size: 0.5rem;
     color: #04ff25;
-}
+} 
 
 #hero>ul {
     display: flex;
@@ -215,6 +215,4 @@ button:hover {
     width: 50%;
     height: 1px;
     background-color: #8b949e;
-}
-
-
+} 
