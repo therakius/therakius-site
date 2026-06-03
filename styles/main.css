@@ -21,6 +21,13 @@ main {
     display: flex;
     justify-content: space-between;
     gap: 3.7rem;
+    width: 68%;
+}
+.intro {
+    padding-block: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
 }
 
 main .intro>h3 {
@@ -67,7 +74,7 @@ main .icons>ul {
 main .icons>ul li a {
     text-decoration: none;
     color: #acaca9;
-    font-size: .9rem;
+    font-size: 1.1rem;
 }
 
 main .icons>ul li a:hover {
